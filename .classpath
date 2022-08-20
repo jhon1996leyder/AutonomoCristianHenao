@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="ConstrutoresImplicitos/src"/>
+	<classpathentry kind="src" path="EjemplosEncapsulacion/src"/>
+	<classpathentry kind="src" path="EjemplosForach/src"/>
+	<classpathentry kind="src" path="EjemplosHere/src"/>
+	<classpathentry kind="src" path="Flechas/src"/>
+	<classpathentry kind="src" path="HasMapHashTable/src"/>
+	<classpathentry kind="src" path="SobreCargaDeMetodos/src"/>
+	<classpathentry kind="src" path="SobreEscrituraMetodos/src"/>
+	<classpathentry kind="output" path="ConstrutoresImplicitos/bin"/>
+</classpath>
